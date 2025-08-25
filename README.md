@@ -13,6 +13,6 @@ Le projet a repris aujourd'hui, avec un nouveau site, accompagné d'un bot Disco
 
 
 # 📊 Statistiques GitHub :
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImLacy&theme=radical&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ImLacy&theme=radical&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats-omega-rosy-54.vercel.app/api?show_icons=true&username=imlacy&theme=omni)
+![GitHub Stats](https://github-readme-stats-omega-rosy-54.vercel.app/api/top-langs/?username=ImLacy&theme=omni&show_icons=true&layout=compact)
 
